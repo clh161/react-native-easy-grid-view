@@ -2,7 +2,7 @@
   "name": "react-native-easy-grid-view",
   "version": "0.1.0",
   "description": "Easy grid view for react-native",
-  "main": "index.js",
+  "main": "lib/GridView.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
