@@ -3,7 +3,7 @@
 
 > A React Native component for grid view. Compatible with both iOS and Android.
 <p align="center">
-  <img src="./assets/demo_image_1.png"/>
+  <img width="240" src="./assets/demo_image_1.png"/>
 </p>
 
 ## Installation
