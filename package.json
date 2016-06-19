@@ -1,0 +1,34 @@
+{
+  "name": "react-native-easy-grid-view",
+  "version": "0.1.0",
+  "description": "Easy grid view for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react native",
+    "grid",
+    "grid view",
+    "gridview",
+    "list",
+    "list view",
+    "listview",
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clh161/react-native-easy-grid-view.git"
+  },
+  "author": "Jacob Ho <clh161@gmail.com> (https://github.com/clh161)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clh161/react-native-easy-grid-view/issues"
+  },
+  "homepage": "https://github.com/clh161/react-native-easy-grid-view#readme"
+}
