@@ -1,5 +1,7 @@
 # react-native-easy-grid-view
 [![npm package](https://img.shields.io/npm/v/react-native-easy-grid-view.svg?style=flat-square)](https://www.npmjs.org/package/react-native-easy-grid-view)
+[![npm](https://img.shields.io/npm/dm/localeval.svg?style=flat-square)](https://www.npmjs.com/package/react-native-easy-grid-view)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/react-native-easy-grid-view/Lobby#)
 
 > A React Native component for grid view. Compatible with both iOS and Android.
 <p align="center">
